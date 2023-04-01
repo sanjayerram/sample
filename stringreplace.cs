@@ -31,20 +31,7 @@ namespace CsharpPracice
                 }
                 Console.ReadLine();
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Console.ReadLine();
+              Console.ReadLine();
         }
     }
 }
