@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CsharpPracice
 {
-    public class DelegateEmployee
+    public class EmployeeDemo
     {
         public void Main()
         {
