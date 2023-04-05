@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace CsharpPracice
 {
-    class stringreplace
+    public class stringreplaceDemo
     {
         public static void Main()
         {
@@ -28,8 +28,10 @@ namespace CsharpPracice
                 if (strArray[j].Contains(","))
                 {
                     strArray[j].Replace(",", " ");
+                    
+                    Console.WriteLine(strArray[j]);
                 }
-                Console.ReadLine();
+                //Console.ReadLine();
             }
               Console.ReadLine();
         }
